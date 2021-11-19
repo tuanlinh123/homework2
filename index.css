@@ -1,0 +1,23 @@
+.oclock{
+    position: absolute;
+    left: 50%;
+    transform:translateX(-50%);
+    top: 40%;
+    display: flex;
+}
+.counting{
+    margin: 20px;
+    font-size: 30px;
+}
+.start{
+    padding: 10px;
+}
+.stop{
+    padding: 10px;
+}
+.pause{
+    position: absolute;
+    left: 50%;
+    transform:translateX(-50%);
+    top: 35%;
+}
